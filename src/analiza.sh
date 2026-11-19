@@ -9,3 +9,4 @@
 # TODO 4: grep i liczenie wierszy ERROR dla każdego pliku.
 # TODO 5: if wyznaczający STATUS zgodnie z ZADANIA.md.
 # TODO 6: printf trzy pola oddzielone średnikami.
+
