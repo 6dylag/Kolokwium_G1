@@ -1,0 +1,6 @@
+INFO;D01;start
+ERROR;D02;brak_sygnalu
+ERROR;D03;przekroczony_zakres
+INFO;D04;ponowienie
+ERROR;D05;zla_czestotliwosc
+INFO;D06;stop

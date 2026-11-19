@@ -1,0 +1,5 @@
+INFO;B01;start
+ERROR;B02;blad_kalibracji
+WARN;B03;wilgotnosc
+INFO;B04;pomiar_ok
+INFO;B05;stop

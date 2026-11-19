@@ -1,0 +1,6 @@
+INFO;A01;start
+WARN;A02;dryf_temperatury
+ERROR;A03;niekompletny_odczyt
+WARN;A04;niestabilne_napiecie
+ERROR;A05;brak_probki
+INFO;A06;stop

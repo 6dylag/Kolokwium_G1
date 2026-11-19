@@ -1,0 +1,5 @@
+INFO;C01;start
+WARN;C02;drgania
+INFO;C03;pomiar_ok
+WARN;C04;zaklocenia
+INFO;C05;stop
